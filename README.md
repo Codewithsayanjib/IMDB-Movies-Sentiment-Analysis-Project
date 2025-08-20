@@ -9,7 +9,7 @@ A machine learning project for classifying the sentiment of IMDB movie reviews a
 This project demonstrates:
 - 🧹 End-to-end text data cleaning & preprocessing
 - 📊 Exploratory data analysis with engaging visualizations
-- 🤖 Comparative evaluation of multiple ML models (Logistic Regression, Naive Bayes, SVM)
+- 🤖 Comparative evaluation of multiple ML models (Logistic Regression, Naive Bayes)
 - 🏅 Model selection with comprehensive reporting
 
 ***
